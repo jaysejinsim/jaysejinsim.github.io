@@ -1,61 +1,48 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Jay Sim",
+    "email": "jsim10@stanford.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://10thletterjay.github.io/gibhub.io",
+    "summary": "PhD Candidate in Mechanical Engineering at Stanford University, working on magneto-mechanical and electromagnetically-driven soft materials and metamaterials.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Stanford",
       "countryCode": "US",
-      "region": ""
+      "region": "CA"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=d8xJKRoAAAAJ&hl=en"
       },
       {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "jay-sim-71401a158",
+        "url": "https://www.linkedin.com/in/jay-sim-71401a158/"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "Jay_Sim7",
+        "url": "https://www.researchgate.net/profile/Jay_Sim7"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "10thLetterJay",
+        "url": "https://github.com/10thLetterJay"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
+      "institution": "Stanford University",
+      "area": "Mechanical Engineering",
+      "studyType": "Ph.D.",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "",
       "gpa": null,
       "courses": []
     }
@@ -66,87 +53,126 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Magnetic Milli-Spinner for Robotic Endovascular Surgery",
+      "publisher": "Advanced Materials, 38(4), e08180",
+      "releaseDate": "2026-01-01",
+      "website": "https://scholar.google.com/citations?user=d8xJKRoAAAAJ&hl=en",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Electromagnetic (em)-driven functional materials",
+      "publisher": "Advanced Materials, 38(11), e21268",
+      "releaseDate": "2026-01-02",
+      "website": "https://scholar.google.com/citations?user=d8xJKRoAAAAJ&hl=en",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Porous liquid crystal elastomers for thermal-driven tunable acoustic properties",
+      "publisher": "Materials Today, 98, 103394",
+      "releaseDate": "2026-01-03",
+      "website": "https://scholar.google.com/citations?user=d8xJKRoAAAAJ&hl=en",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Spatiotemporal modulation of surface texture for information encoding and object manipulation",
+      "publisher": "Nature Communications",
+      "releaseDate": "2026-01-04",
+      "website": "https://scholar.google.com/citations?user=d8xJKRoAAAAJ&hl=en",
+      "summary": ""
+    },
+    {
+      "name": "Selective actuation enabled multifunctional magneto-mechanical metamaterial for programming elastic wave propagation",
+      "publisher": "Advanced Functional Materials, 35(16), 2422325",
+      "releaseDate": "2025-01-01",
+      "website": "https://scholar.google.com/citations?user=d8xJKRoAAAAJ&hl=en",
+      "summary": ""
+    },
+    {
+      "name": "Bioinspired synergistic texture and color modulation enabled by surface instability of cholesteric liquid crystal elastomer bilayers",
+      "publisher": "Science Advances, 11(44), eaea9183",
+      "releaseDate": "2025-01-02",
+      "website": "https://scholar.google.com/citations?user=d8xJKRoAAAAJ&hl=en",
+      "summary": ""
+    },
+    {
+      "name": "Artificial intelligence and computing for active metamaterial design: a perspective",
+      "publisher": "Journal of Applied Mechanics, 92(9), 094001",
+      "releaseDate": "2025-01-03",
+      "website": "https://scholar.google.com/citations?user=d8xJKRoAAAAJ&hl=en",
+      "summary": ""
+    },
+    {
+      "name": "Hands-on digital tools for metalcasting engineering education in foundry science",
+      "publisher": "International Journal of Metalcasting, 19(5), 2531-2543",
+      "releaseDate": "2025-01-04",
+      "website": "https://scholar.google.com/citations?user=d8xJKRoAAAAJ&hl=en",
+      "summary": ""
+    },
+    {
+      "name": "Clot treatment via spinning-induced fibrin microstructure densification and clot volume reduction",
+      "publisher": "Extreme Mechanics Letters, 102391",
+      "releaseDate": "2025-01-05",
+      "website": "https://scholar.google.com/citations?user=d8xJKRoAAAAJ&hl=en",
+      "summary": ""
+    },
+    {
+      "name": "Reconfigurable Linear-to-Circular Polarization Converter Based on a Tunable Shape Morphing Structure",
+      "publisher": "2025 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting",
+      "releaseDate": "2025-01-06",
+      "website": "https://scholar.google.com/citations?user=d8xJKRoAAAAJ&hl=en",
+      "summary": ""
+    },
+    {
+      "name": "Mechanics of hard-magnetic soft materials: A review",
+      "publisher": "Mechanics of Materials, 189, 104874",
+      "releaseDate": "2024-01-01",
+      "website": "https://scholar.google.com/citations?user=d8xJKRoAAAAJ&hl=en",
+      "summary": ""
+    },
+    {
+      "name": "Magneto-mechanical metamaterials: a perspective",
+      "publisher": "Journal of Applied Mechanics, 91(3), 031004",
+      "releaseDate": "2024-01-02",
+      "website": "https://scholar.google.com/citations?user=d8xJKRoAAAAJ&hl=en",
+      "summary": ""
+    },
+    {
+      "name": "A multiscale anisotropic polymer network model coupled with phase field fracture",
+      "publisher": "International Journal for Numerical Methods in Engineering, 125(13), e7488",
+      "releaseDate": "2024-01-03",
+      "website": "https://scholar.google.com/citations?user=d8xJKRoAAAAJ&hl=en",
+      "summary": ""
+    },
+    {
+      "name": "Reconfiguration of Electromagnetic Metasurfaces Using Tunable Shape Morphing Structures",
+      "publisher": "2024 18th European Conference on Antennas and Propagation (EuCAP), 1-4",
+      "releaseDate": "2024-01-04",
+      "website": "https://scholar.google.com/citations?user=d8xJKRoAAAAJ&hl=en",
+      "summary": ""
+    },
+    {
+      "name": "Magneto-mechanical bilayer metamaterial with global area-preserving density tunability for acoustic wave regulation",
+      "publisher": "Advanced Materials, 35(35), 2303541",
+      "releaseDate": "2023-01-01",
+      "website": "https://scholar.google.com/citations?user=d8xJKRoAAAAJ&hl=en",
+      "summary": ""
+    },
+    {
+      "name": "A novel approach to visualize liquid aluminum flow to advance casting science",
+      "publisher": "Materials, 16(2), 756",
+      "releaseDate": "2023-01-02",
+      "website": "https://scholar.google.com/citations?user=d8xJKRoAAAAJ&hl=en",
+      "summary": ""
+    },
+    {
+      "name": "Effect of freezing range on reducing casting defects through 3D sand-printed mold designs",
+      "publisher": "The International Journal of Advanced Manufacturing Technology, 126(1), 569-581",
+      "releaseDate": "2023-01-03",
+      "website": "https://scholar.google.com/citations?user=d8xJKRoAAAAJ&hl=en",
+      "summary": ""
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
