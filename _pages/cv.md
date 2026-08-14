@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Mechanical Engineering, Stanford University (in progress)
+* B.S. in Mechanical Engineering, Penn State University, 2022 (with honors)
 
 Publications
 ======

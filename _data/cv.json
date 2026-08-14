@@ -4,7 +4,7 @@
     "email": "jsim10@stanford.edu",
     "phone": "",
     "website": "https://jaysejinsim.github.io",
-    "summary": "PhD Candidate in Mechanical Engineering at Stanford University, working on magneto-mechanical and electromagnetically-driven soft materials and metamaterials.",
+    "summary": "PhD candidate in the Department of Mechanical Engineering at Stanford University, working on stimuli-responsive materials, active metamaterials, soft robotics, and other reconfigurable devices. B.S. in Mechanical Engineering from Penn State University (2022, with honors).",
     "location": {
       "address": "",
       "postalCode": "",
@@ -43,6 +43,15 @@
       "studyType": "Ph.D.",
       "startDate": "",
       "endDate": "",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Penn State University",
+      "area": "Mechanical Engineering",
+      "studyType": "B.S. (with honors)",
+      "startDate": "",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     }
