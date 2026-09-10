@@ -62,6 +62,13 @@
   "references": [],
   "publications": [
     {
+      "name": "Co-design of Programmable Material Systems",
+      "publisher": "npj Metamaterials, 2, 29",
+      "releaseDate": "2026-09-04",
+      "website": "https://doi.org/10.1038/s44455-026-00039-4",
+      "summary": ""
+    },
+    {
       "name": "Spatiotemporal Modulation of Surface Texture for Information Encoding and Object Manipulation",
       "publisher": "Nature Communications, 17, 7817",
       "releaseDate": "2026-06-22",
