@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% assign institutions = site.teaching | group_by: 'institution' %}
+{% for group in institutions %}
+  <h2>{{ group.name }}</h2>
+  {% assign items = group.items | sort: 'date' | reverse %}
+  {% for post in items %}
+    <p>{{ forloop.index }}. {{ post.citation }}</p>
+  {% endfor %}
 {% endfor %}
