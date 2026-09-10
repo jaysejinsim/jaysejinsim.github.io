@@ -1,11 +1,11 @@
 ---
-title: "Magneto-mechanical metamaterials: a perspective"
+title: "Magneto-Mechanical Metamaterials: A Perspective"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-02-magneto-mechanical-metamaterials-perspective
 excerpt: ''
-date: 2024-01-02
-venue: 'Journal of Applied Mechanics, 91(3), 031004'
-paperurl: 'https://scholar.google.com/citations?user=d8xJKRoAAAAJ&hl=en'
-citation: 'Sim, J., &amp; Zhao, R.R. (2024). &quot;Magneto-mechanical metamaterials: a perspective.&quot; <i>Journal of Applied Mechanics</i>, 91(3), 031004.'
+date: 2023-10-31
+venue: 'Journal of Applied Mechanics'
+paperurl: 'https://doi.org/10.1115/1.4063816'
+citation: '<strong>Jay Sim</strong>, Ruike Renee Zhao. 2024. Magneto-Mechanical Metamaterials: A Perspective. <em><a href="https://doi.org/10.1115/1.4063816">Journal of Applied Mechanics</a></em>, <strong>91</strong>, 031004.'
 ---

@@ -1,11 +1,11 @@
 ---
-title: "Effect of freezing range on reducing casting defects through 3D sand-printed mold designs"
+title: "Effect of Freezing Range on Reducing Casting Defects through 3D Sand-Printed Mold Designs"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-01-03-freezing-range-casting-defects
 excerpt: ''
-date: 2023-01-03
-venue: 'The International Journal of Advanced Manufacturing Technology, 126(1), 569-581'
-paperurl: 'https://scholar.google.com/citations?user=d8xJKRoAAAAJ&hl=en'
-citation: 'Martinez, D., King, P., Sama, S.R., Sim, J., Toykoc, H., &amp; Manogharan, G. (2023). &quot;Effect of freezing range on reducing casting defects through 3D sand-printed mold designs.&quot; <i>The International Journal of Advanced Manufacturing Technology</i>, 126(1), 569-581.'
+date: 2023-03-01
+venue: 'The International Journal of Advanced Manufacturing Technology'
+paperurl: 'https://doi.org/10.1007/s00170-023-11112-x'
+citation: 'Daniel Martinez, Philip King, Santosh Reddy Sama, <strong>Jay Sim</strong>, Hakan Toykoc, Guha Manogharan. 2023. Effect of Freezing Range on Reducing Casting Defects through 3D Sand-Printed Mold Designs. <em><a href="https://doi.org/10.1007/s00170-023-11112-x">The International Journal of Advanced Manufacturing Technology</a></em>, <strong>126</strong>, 569-581.'
 ---
