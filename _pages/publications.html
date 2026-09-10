@@ -13,5 +13,5 @@ author_profile: true
 
 {% assign pubs = site.publications | sort: 'date' | reverse %}
 {% for post in pubs %}
-  <p>[{{ forloop.index }}] {{ post.citation }}</p>
+  <p>[{{ forloop.rindex }}] {{ post.citation }}</p>
 {% endfor %}
