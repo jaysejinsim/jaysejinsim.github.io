@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>Teaching Philosophy</h2>
+<p>I believe teaching is not a side duty of academia but one of its core responsibilities, and I think it's a part of the job too many professors treat as an afterthought to research. My approach centers on hands-on, experimental learning: rather than just lecturing on theory, I design lab sessions where students build, test, and characterize real materials and structures themselves, since I've found that intuition sticks best when it's built with your own hands. I try to stay accessible outside the classroom through regular office hours, because the questions students are most hesitant to ask in front of a room are often the ones that matter most.</p>
+
 {% assign institutions = site.teaching | group_by: 'institution' %}
 {% for group in institutions %}
   <h2>{{ group.name }}</h2>
@@ -14,4 +17,10 @@ author_profile: true
   {% for post in items %}
     <p>{{ forloop.index }}. {{ post.citation }}</p>
   {% endfor %}
+{% endfor %}
+
+<h2>Teaching Awards</h2>
+{% assign awards = site.data.teaching-awards %}
+{% for award in awards %}
+  <p>{{ forloop.index }}. {{ award }}</p>
 {% endfor %}
