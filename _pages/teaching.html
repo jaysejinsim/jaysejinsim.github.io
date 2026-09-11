@@ -10,6 +10,12 @@ author_profile: true
 <h2>Teaching Philosophy</h2>
 <p>My teaching philosophy centers on being flexible in learning tools, level of the student, and pace, since no two students arrive at the answer or concept in the same way. This largely comes from how I learn best myself, where I often need to break a concept down to its simplest possible form before it clicks. I still remember needing to literally write out 1 &times; 0 = 0 to fully understand the index in the Kronecker delta when studying continuum mechanics. Thus, I try to teach the way I wish I had been taught, starting from the ground level rather than assuming a shortcut everyone already sees.</p>
 
+<h2>Teaching Awards</h2>
+{% assign awards = site.data.teaching-awards %}
+{% for award in awards %}
+  <p>{{ forloop.index }}. {{ award }}</p>
+{% endfor %}
+
 {% assign institutions = site.teaching | group_by: 'institution' %}
 {% for group in institutions %}
   <h2>{{ group.name }}</h2>
@@ -17,10 +23,4 @@ author_profile: true
   {% for post in items %}
     <p>{{ forloop.index }}. {{ post.citation }}</p>
   {% endfor %}
-{% endfor %}
-
-<h2>Teaching Awards</h2>
-{% assign awards = site.data.teaching-awards %}
-{% for award in awards %}
-  <p>{{ forloop.index }}. {{ award }}</p>
 {% endfor %}
