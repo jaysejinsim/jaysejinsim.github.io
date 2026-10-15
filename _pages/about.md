@@ -21,7 +21,8 @@ I am a PhD candidate in the Department of Mechanical Engineering at Stanford Uni
 }
 .research-gallery img {
   width: 100%;
-  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
   border-radius: 4px;
   display: block;
 }
