@@ -27,9 +27,11 @@ I am a PhD candidate in the Department of Mechanical Engineering at Stanford Uni
   display: block;
 }
 .research-gallery figcaption {
+  display: block;
+  width: 100%;
   margin-top: 0.5em;
-  font-size: 0.85em;
-  text-align: center;
+  font-size: 0.7em !important;
+  text-align: center !important;
   color: var(--global-text-color-light, #767676);
 }
 </style>
