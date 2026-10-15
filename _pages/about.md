@@ -40,7 +40,9 @@ I am a PhD candidate in the Department of Mechanical Engineering at Stanford Uni
   {% assign gallery = site.data.gallery %}
   {% for item in gallery %}
   <figure>
-    <img src="{{ item.image }}" alt="{{ item.caption }}">
+    <a href="{{ item.url }}" target="_blank" rel="noopener">
+      <img src="{{ item.image }}" alt="{{ item.caption }}">
+    </a>
     <figcaption>{{ item.caption }}</figcaption>
   </figure>
   {% endfor %}
