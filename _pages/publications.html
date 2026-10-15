@@ -15,3 +15,9 @@ author_profile: true
 {% for post in pubs %}
   <p>[{{ forloop.rindex }}] {{ post.citation }}</p>
 {% endfor %}
+
+<h2>In Review</h2>
+{% assign in_review = site.data.publications-in-review %}
+{% for item in in_review %}
+  <p>{{ item }}</p>
+{% endfor %}
