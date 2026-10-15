@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Professional Activities"
+permalink: /activities/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% assign sections = site.data.professional-activities %}
+{% for sec in sections %}
+  <h2>{{ sec.section }}</h2>
+  {% for item in sec.items %}
+    <p>{{ forloop.index }}. {{ item }}</p>
+  {% endfor %}
+{% endfor %}
